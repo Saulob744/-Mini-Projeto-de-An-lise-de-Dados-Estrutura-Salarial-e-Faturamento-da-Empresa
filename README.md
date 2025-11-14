@@ -24,10 +24,3 @@ O objetivo é praticar manipulação, limpeza, integração e exploração de da
 - Pandas  
 - Jupyter Notebook  
 
----
-
-## ▶️ **Como executar**
-
-1. Instale as dependências:
-   ```bash
-   pip install pandas
